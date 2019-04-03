@@ -7,6 +7,7 @@
       <button>立即登陆</button>
     </section>
     <div></div>
+    <div></div>
 </section>
 </template>
 <script>
